@@ -2,4 +2,4 @@
 
 ## Architecture Guides
 
-1. [Kubernetes Architecture Guide](./kubernetes_architecture.md)
+1. [Kubernetes Architecture Guide]
